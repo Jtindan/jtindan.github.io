@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jacob Z. Tindan
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th April 1994
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Pennsylvania State University, Pennsylavia, USA
+      year: 2026
       description:
         - Description 1.
         - Description 2.
