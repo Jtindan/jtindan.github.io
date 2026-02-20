@@ -1,12 +1,8 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-20'
 papers:
-  ijU6TyYAAAAJ:2osOgNQ5qMEC:
-    citations: 18
-    title: "Understanding day\u2013night differences in dust aerosols over the dust belt of North Africa, the Middle East, and Asia"
-    year: '2023'
   ijU6TyYAAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 20
     title: Understanding day-night differences in dust activities over the dust belt of North Africa, the Middle East, and Asia
     year: '2022'
   ijU6TyYAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +38,7 @@ papers:
     title: Trends in daytime and nighttime dust aerosols over the Dust Belt revealed by IASI
     year: '2025'
   ijU6TyYAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 20
     title: Evaluation of CORDEX Africa multi-model precipitation simulations over the Pra River Basin, Ghana
     year: '2021'
   ijU6TyYAAAAJ:eQOLeE2rZwMC:
